@@ -1,0 +1,20 @@
+{
+  "forms": [
+    {
+      "marital_status": true,
+      "id": 5
+    },
+    {
+      "username": "Akash",
+      "age": "21",
+      "address": "SA 7/63 K-4, BENIPUR AKTHA PAHARIYA",
+      "department": "Administrative",
+      "salary": "13413416",
+      "marital_status": false,
+      "id": 6
+    },
+    {
+      "id": 7
+    }
+  ]
+}
